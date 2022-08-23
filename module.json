@@ -1,0 +1,48 @@
+{
+    "id": "mandalorian-codex",
+    "title": "The Mandalorian Codex",
+    "description": "An add on for using the Mandalorian items and culture.",
+    "authors": [
+      {
+      "name": "DrakeRyzer",
+      "name": "Kakeman89"
+      }
+      ],
+    "packs": [
+        {
+            "name": "the-mandoade",
+            "label": "The Mando'ade",
+            "path": "./packs/the-mandoade.db",
+            "type": "Actor"
+        },
+        {
+            "name": "mandalorian-armory",
+            "label": "Mandalorian Armory",
+            "path": "./packs/mandalorian-armory.db",
+            "type": "Item"
+        },
+        {
+            "name": "the-mandoade-crusaders",
+            "label": "The Mando'ade Crusaders",
+            "path": "./packs/mandoade.db",
+            "type": "Actor"
+        },
+        {
+            "name": "crusader-armory",
+            "label": "Crusader Armory",
+            "path": "./packs/crusader-armory.db",
+            "type": "Item"
+        },
+        {
+            "name": "the-mandalorian-codex",
+            "label": "The Mandalorian Codex",
+            "path": "./packs/the-mandalorian-codex.db",
+            "type": "JournalEntry"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "9",
+      "verified": "10"
+    }
+  }
