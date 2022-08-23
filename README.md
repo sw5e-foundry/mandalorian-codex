@@ -1,4 +1,4 @@
-# the-mandalorian-codex
+# The Mandalorian Codex
 An extention of the SW5E system for FoundryVTT made by DrakeRyzer
 
 The Source material can be found [here](https://www.gmbinder.com/share/-LklOgbCIemUq28zgeYC#p19)
