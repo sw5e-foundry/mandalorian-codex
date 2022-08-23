@@ -28,6 +28,6 @@ jobs:
           draft: false
           prerelease: false
           token: ${{secrets.GITHUB_TOKEN}}
-          artifacts: './system.zip, ./system.json'
+          artifacts: './module.zip, ./module.json'
           generateReleaseNotes: true
           tag: ${{ steps.get-version.outputs.version }}
