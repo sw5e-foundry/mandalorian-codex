@@ -2,6 +2,7 @@
     "id": "mandalorian-codex",
     "title": "The Mandalorian Codex",
     "description": "An add on for using the Mandalorian items and culture.",
+	"system": ["sw5e"],
     "authors": [
       {
       "name": "DrakeRyzer",
@@ -40,9 +41,13 @@
             "type": "JournalEntry"
         }
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
-      "minimum": "9",
-      "verified": "10"
-    }
+      "minimum": "9.245",
+      "verified": "9.245",
+	  "maximum": "9"
+    },
+	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
+	"manifest": "https://github.com/unrealkakeman89/mandalorian-codex/releases/latest/download/module.json",
+	"download": "https://github.com/unrealkakeman89/mandalorian-codex/releases/latest/download/module.zip"
   }
