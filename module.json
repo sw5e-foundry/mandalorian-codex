@@ -41,10 +41,10 @@
             "type": "JournalEntry"
         }
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "compatibility": {
-      "minimum": "9.245",
-      "verified": "9.245",
+      "minimum": "9",
+      "verified": "9",
 	  "maximum": "9"
     },
 	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
