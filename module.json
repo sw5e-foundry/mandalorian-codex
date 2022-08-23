@@ -3,13 +3,8 @@
     "title": "The Mandalorian Codex",
     "description": "An add on for using the Mandalorian items and culture.",
 	"system": ["sw5e"],
-    "version": "1.0.4",
-    "authors": [
-      {
-      "name": "DrakeRyzer",
-      "name": "Kakeman89"
-      }
-      ],
+    "version": "1.0.5",
+    "authors": [{"name": "Kakeman89"}],
     "packs": [
         {
             "name": "the-mandoade",
