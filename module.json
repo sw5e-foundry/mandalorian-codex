@@ -1,50 +1,47 @@
 {
-    "id": "mandalorian-codex",
+    "name": "mandalorian-codex",
     "title": "The Mandalorian Codex",
     "description": "An add on for using the Mandalorian items and culture.",
-    "version": "[version]",
     "author": "Kakeman89",
+    "version": "[version]",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "3.2.1",
     "packs": [
         {
             "name": "the-mandoade",
             "label": "The Mando'ade",
-            "path": "./packs/the-mandoade.db",
-            "entity": "Actor",
-            "module": "mandalorian-codex"
+            "path": "packs/the-mandoade.db",
+            "module": "mandalorian-codex",
+            "entity": "Actor"
         },
         {
             "name": "mandalorian-armory",
             "label": "Mandalorian Armory",
             "path": "./packs/mandalorian-armory.db",
-            "entity": "Item",
-            "module": "mandalorian-codex"
+            "module": "mandalorian-codex",
+            "entity": "Item"
         },
         {
             "name": "the-mandoade-crusaders",
             "label": "The Mando'ade Crusaders",
             "path": "./packs/mandoade.db",
-            "entity": "Actor",
-            "module": "mandalorian-codex"
+            "module": "mandalorian-codex",
+            "entity": "Actor"
         },
         {
             "name": "crusader-armory",
             "label": "Crusader Armory",
             "path": "./packs/crusader-armory.db",
-            "entity": "Item",
-            "module": "mandalorian-codex"
+            "module": "mandalorian-codex",
+            "entity": "Item"
         },
         {
             "name": "the-mandalorian-codex",
             "label": "The Mandalorian Codex",
             "path": "./packs/the-mandalorian-codex.db",
-            "entity": "JournalEntry",
-            "module": "mandalorian-codex"
+            "module": "mandalorian-codex",
+            "entity": "JournalEntry"
         }
     ],
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
-	"manifest": "[manifest]",
-	"download": "[download]",
-    "socket": true
+	"url": "https://github.com/unrealkakeman89/mandalorian-codex"
   }
