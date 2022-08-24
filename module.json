@@ -4,7 +4,6 @@
     "description": "An add on for using the Mandalorian items and culture.",
     "version": "[version]",
     "authors": [{"name": "Kakeman89"}],
-    "scripts": [],
     "packs": [
         {
             "name": "the-mandoade",
@@ -44,7 +43,6 @@
     ],
     "minimumCoreVersion": "9.245",
     "compatibleCoreVersion": "9",
-    "socket": "true",
 	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
 	"manifest": "[manifest]",
 	"download": "[download]"
