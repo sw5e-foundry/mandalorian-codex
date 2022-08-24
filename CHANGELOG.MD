@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Changed
 
+- even more fixes to icon directories
+
+## [v1.1.8] - 2022-08-24
+
+### Changed
+
 - added Crusaders
 - added Journal Entries
 
