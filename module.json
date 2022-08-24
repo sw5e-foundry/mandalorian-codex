@@ -2,7 +2,6 @@
     "id": "mandalorian-codex",
     "title": "The Mandalorian Codex",
     "description": "An add on for using the Mandalorian items and culture.",
-	"system": ["sw5e"],
     "version": "[version]",
     "authors": [{"name": "Kakeman89"}],
     "scripts": [],
