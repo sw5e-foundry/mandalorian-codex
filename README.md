@@ -1,4 +1,6 @@
 # The Mandalorian Codex
+![GitHub Latest Release](https://img.shields.io/github/release/unrealkakeman89/mandalorian-codex?style=flat-square)
+
 An extention of the SW5E system for FoundryVTT made by DrakeRyzer
 
 The Source material can be found [here](https://www.gmbinder.com/share/-LklOgbCIemUq28zgeYC#p19)
