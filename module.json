@@ -3,7 +3,7 @@
     "title": "The Mandalorian Codex",
     "description": "An add on for using the Mandalorian items and culture.",
     "version": "[version]",
-    "authors": [{"name": "Kakeman89"}],
+    "author": "Kakeman89",
     "packs": [
         {
             "name": "the-mandoade",
