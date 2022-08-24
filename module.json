@@ -9,31 +9,36 @@
             "name": "the-mandoade",
             "label": "The Mando'ade",
             "path": "./packs/the-mandoade.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "module": "mandalorian-codex"
         },
         {
             "name": "mandalorian-armory",
             "label": "Mandalorian Armory",
             "path": "./packs/mandalorian-armory.db",
-            "entity": "Item"
+            "entity": "Item",
+            "module": "mandalorian-codex"
         },
         {
             "name": "the-mandoade-crusaders",
             "label": "The Mando'ade Crusaders",
             "path": "./packs/mandoade.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "module": "mandalorian-codex"
         },
         {
             "name": "crusader-armory",
             "label": "Crusader Armory",
             "path": "./packs/crusader-armory.db",
-            "entity": "Item"
+            "entity": "Item",
+            "module": "mandalorian-codex"
         },
         {
             "name": "the-mandalorian-codex",
             "label": "The Mandalorian Codex",
             "path": "./packs/the-mandalorian-codex.db",
-            "entity": "JournalEntry"
+            "entity": "JournalEntry",
+            "module": "mandalorian-codex"
         }
     ],
 	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
