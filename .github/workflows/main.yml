@@ -22,7 +22,7 @@ jobs:
           download: https://github.com/unrealkakeman89/mandalorian-codex/releases/download/${{github.event.release.tag_name}}/release.zip
 
       # Create zip file
-      - run: zip -r ./release.zip *
+      - run: zip -r ./mandalorian-codex.zip *
 
       # Substitute tag for changelog
       - name: Substitute tag
@@ -44,7 +44,7 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "./module.json, ./release.zip"
+          artifacts: "./module.json, ./mandalorian-codex.zip"
           body: "Changelog: https://github.com/unrealkakeman89/mandalorian-codex/blob/${{github.ref_name}}/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{steps.date.outputs.date}}"
           omitDraftDuringUpdate: true
           omitPrereleaseDuringUpdate: true
