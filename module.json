@@ -41,7 +41,10 @@
             "module": "mandalorian-codex"
         }
     ],
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
 	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
 	"manifest": "[manifest]",
-	"download": "[download]"
+	"download": "[download]",
+    "socket": true
   }
