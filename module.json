@@ -10,6 +10,7 @@
         {
             "name": "the-mandoade",
             "label": "The Mando'ade",
+            "system": "sw5e",
             "path": "packs/the-mandoade.db",
             "module": "mandalorian-codex",
             "entity": "Actor"
@@ -17,6 +18,7 @@
         {
             "name": "mandalorian-armory",
             "label": "Mandalorian Armory",
+            "system": "sw5e",
             "path": "./packs/mandalorian-armory.db",
             "module": "mandalorian-codex",
             "entity": "Item"
@@ -24,6 +26,7 @@
         {
             "name": "the-mandoade-crusaders",
             "label": "The Mando'ade Crusaders",
+            "system": "sw5e",
             "path": "./packs/mandoade.db",
             "module": "mandalorian-codex",
             "entity": "Actor"
@@ -31,6 +34,7 @@
         {
             "name": "crusader-armory",
             "label": "Crusader Armory",
+            "system": "sw5e",
             "path": "./packs/crusader-armory.db",
             "module": "mandalorian-codex",
             "entity": "Item"
@@ -38,6 +42,7 @@
         {
             "name": "the-mandalorian-codex",
             "label": "The Mandalorian Codex",
+            "system": "sw5e",
             "path": "./packs/the-mandalorian-codex.db",
             "module": "mandalorian-codex",
             "entity": "JournalEntry"
