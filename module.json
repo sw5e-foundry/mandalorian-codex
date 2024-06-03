@@ -13,7 +13,7 @@
             "system": "sw5e",
             "path": "packs/the-mandoade.db",
             "module": "mandalorian-codex",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "mandalorian-armory",
@@ -21,7 +21,7 @@
             "system": "sw5e",
             "path": "./packs/mandalorian-armory.db",
             "module": "mandalorian-codex",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "the-mandoade-crusaders",
@@ -29,7 +29,7 @@
             "system": "sw5e",
             "path": "./packs/mandoade.db",
             "module": "mandalorian-codex",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "crusader-armory",
@@ -37,7 +37,7 @@
             "system": "sw5e",
             "path": "./packs/crusader-armory.db",
             "module": "mandalorian-codex",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "the-mandalorian-codex",
@@ -45,7 +45,7 @@
             "system": "sw5e",
             "path": "./packs/the-mandalorian-codex.db",
             "module": "mandalorian-codex",
-            "entity": "JournalEntry"
+            "type": "JournalEntry"
         }
     ],
 	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
