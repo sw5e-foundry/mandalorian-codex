@@ -3,9 +3,9 @@
     "title": "The Mandalorian Codex",
     "description": "An add on for using the Mandalorian items and culture.",
     "author": "Kakeman89",
-    "version": "[version]",
-    "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion": "9",
+    "version": "3.4.1.2.0.0",
+    "minimumCoreVersion": "2.3.0",
+    "compatibleCoreVersion": "10",
     "packs": [
         {
             "name": "the-mandoade",
@@ -48,7 +48,7 @@
             "type": "JournalEntry"
         }
     ],
-	"url": "https://github.com/thenotoriousJeremy/mandalorian-codex",
-	"manifest": "https://github.com/thenotoriousJeremy/mandalorian-codex/releases/latest/download/module.json",
-	"download": "https://github.com/thenotoriousJeremy/mandalorian-codex/releases/latest/download/module.zip"
+	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
+	"manifest": "https://github.com/sw5e-foundry/mandalorian-codex/releases/latest/download/module.json",
+	"download": "https://github.com/sw5e-foundry/mandalorian-codex/releases/latest/download/module.zip"
   }
