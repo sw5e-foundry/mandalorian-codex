@@ -5,7 +5,7 @@
     "author": "Kakeman89",
     "version": "3.4.1.2.0.0",
     "minimumCoreVersion": "2.3.0",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "packs": [
         {
             "name": "the-mandoade",
