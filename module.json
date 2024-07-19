@@ -3,9 +3,9 @@
     "title": "The Mandalorian Codex",
     "description": "An add on for using the Mandalorian items and culture.",
     "author": "Kakeman89",
-    "version": "[version]",
-    "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion": "9",
+    "version": "3.4.1.2.0.0",
+    "minimumCoreVersion": "2.3.0",
+    "compatibleCoreVersion": "11",
     "packs": [
         {
             "name": "the-mandoade",
@@ -13,7 +13,7 @@
             "system": "sw5e",
             "path": "packs/the-mandoade.db",
             "module": "mandalorian-codex",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "mandalorian-armory",
@@ -21,7 +21,7 @@
             "system": "sw5e",
             "path": "./packs/mandalorian-armory.db",
             "module": "mandalorian-codex",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "the-mandoade-crusaders",
@@ -29,7 +29,7 @@
             "system": "sw5e",
             "path": "./packs/mandoade.db",
             "module": "mandalorian-codex",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "crusader-armory",
@@ -37,7 +37,7 @@
             "system": "sw5e",
             "path": "./packs/crusader-armory.db",
             "module": "mandalorian-codex",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "the-mandalorian-codex",
@@ -45,7 +45,7 @@
             "system": "sw5e",
             "path": "./packs/the-mandalorian-codex.db",
             "module": "mandalorian-codex",
-            "entity": "JournalEntry"
+            "type": "JournalEntry"
         }
     ],
 	"url": "https://github.com/unrealkakeman89/mandalorian-codex",
